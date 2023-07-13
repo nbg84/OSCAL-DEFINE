@@ -12,3 +12,9 @@
   - Issue: https://github.com/usnistgov/OSCAL-DEFINE/issues/5
   - Facilitator: Chris Compton (@Compton-NIST)
   - Status: Open
+
+- [Test Process](effort-test-process/)
+  - Initiated:  July 13, 2023
+  - Issue: 
+  - Facilitator: Ned Goren (@nbg84)
+  - Status: initiation
